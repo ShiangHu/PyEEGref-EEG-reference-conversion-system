@@ -1,1 +1,1 @@
-# PyEEGref-EEG-reference-conversion-system
+# PyEEGref: EEG reference conversion system
